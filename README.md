@@ -1,3 +1,3 @@
 # Advanced Rust
 
-Studying the [Rust Reference](https://doc.rust-lang.org/stable/reference/introduction.html) and the [Rust RFCs](https://rust-lang.github.io/rfcs/introduction.html).
+Practising various "advanced" Rust concepts/idioms/patterns from various source, including the primary source - https://rust-unofficial.github.io/patterns/intro.html.
